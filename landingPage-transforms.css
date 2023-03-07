@@ -1,0 +1,11 @@
+.transform {
+  background-color: crimson;
+  /* transition: all 300ms ease-in-out; */
+  transition: all 1.5s ease-out
+  /* transition: all 300ms  */
+}
+
+.transform:hover {
+  background-color: peru;
+  /* transition: all 300ms ease-in-out; */
+}
