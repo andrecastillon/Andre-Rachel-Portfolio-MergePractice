@@ -1,0 +1,9 @@
+.transform {
+  background-color: lightblue;
+  transition: all 1s ease;
+}
+
+.transform:hover {
+  color: purple;
+  background-color: rgb(212, 212, 245);
+}
